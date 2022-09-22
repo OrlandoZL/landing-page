@@ -52,6 +52,7 @@ input, textarea {
   box-sizing: border-box;
   width: 200px;
   border: 1px solid black;
+  color: black;
 }
 
 textarea {
@@ -88,3 +89,6 @@ display: inline;
   text-align: center;
 }
 
+#Sign-Up {
+  color: black;
+}
